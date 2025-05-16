@@ -1,0 +1,5 @@
+pycryptodome
+pyfiglet
+PyInputPlus
+python-secrets
+stdiomask
